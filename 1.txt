@@ -1,3 +1,1 @@
-This is i am editing in master branch
-first change 1
-
+This is i am editing in master branch 
