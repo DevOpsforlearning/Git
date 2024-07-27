@@ -1,1 +1,6 @@
 This is the first commit in master branch
+<<<<<<< Updated upstream
+=======
+updating this code in dev
+man 
+>>>>>>> Stashed changes
